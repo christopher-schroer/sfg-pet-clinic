@@ -41,7 +41,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:christopher-schroer/sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+        <tag>HEAD</tag>
   </scm>
 
 </project>
